@@ -1,5 +1,5 @@
 app_name: "Obsidian.exe"
-folder_to_watch: "C:\Users\mokht\OneDrive\Documents\Obsidian"
+folder_to_watch: C:\Users\mokht\OneDrive\Documents\Obsidian
 backup_dir: "./backups"
 backup_name: "latest_backup.zip"
 check_interval: 5
