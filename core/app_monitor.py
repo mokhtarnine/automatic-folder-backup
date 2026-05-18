@@ -2,6 +2,10 @@ import time
 import psutil
 
 class AppMonitor:
+    """
+    The app monitr it respnsable just for whatch app is open or not 
+    than whatch it until it close
+    """
     def __init__(self,app_name: str,check_interval:int):
         self.app_name = app_name
         self.check_interval = check_interval
