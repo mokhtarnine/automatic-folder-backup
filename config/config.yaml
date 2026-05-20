@@ -1,5 +1,7 @@
 app_name: "Obsidian.exe"
-folder_to_watch: 'C:\Users\mokht\OneDrive\Documents\Obsidian Vault '
+folder_to_watch: 'C:\Users\mokht\OneDrive\Documents\Obsidian Vault'
 backup_dir: "./backups"
 backup_name: "latest_backup.zip"
+rclone_path: 'C:\Users\mokht\OneDrive\Desktop\Automatic folder backup\rclone-v1.74.1-windows-amd64\rclone.exe'
+remote_path: 'Obsidian:Backups'
 check_interval: 5
